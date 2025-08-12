@@ -54,7 +54,7 @@ Once you have installed the prerequisites, you can install the chatbot by follow
     ```
 2.  Install the dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install -e .
     ```
 3.  Create a `.env` file in the root directory of the project and add the following environment variables:
     ```
