@@ -2,6 +2,8 @@
 
 This is a RAG (Retrieval-Augmented Generation) based medical chatbot developed on top of LangChain. The chatbot uses a large language model (LLM) to answer medical questions based on a given context. The context is retrieved from a vector store of medical documents.
 
+![Alt text](images/app.png)
+
 ## Description
 
 The RAG Medical Chatbot is a web-based application that allows users to ask medical questions and receive answers from a large language model. The chatbot is designed to be used by medical professionals and students, and it can be used to answer questions about a wide range of medical topics.
