@@ -52,7 +52,7 @@ Once you have installed the prerequisites, you can install the chatbot by follow
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/rag-medical-chatbot.git
+    https://github.com/ChidambaraRaju/medical-rag-chatbot.git
     ```
 2.  Install the dependencies:
     ```bash
